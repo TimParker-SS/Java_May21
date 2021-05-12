@@ -1,4 +1,4 @@
-package com.ss.may.jbone;
+package com.ss.may.jbdayone;
 
 /**
  * Prints series of patterns.

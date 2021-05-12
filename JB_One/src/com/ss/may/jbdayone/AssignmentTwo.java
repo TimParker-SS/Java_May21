@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.ss.may.jbtwo;
+package com.ss.may.jbdayone;
 
 import java.util.Random;
 import java.util.Scanner;
